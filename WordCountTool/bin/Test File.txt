@@ -1,0 +1,5 @@
+This is another Java Project that is very helpful for engineering students to improve their learning in the File and String Handling concepts of Java.
+The programmer develops an interface on which customers can document their content and then obtain the total words in the content.
+The programmer strategies and saves the content in a file for the purpose of processing and then processes the content by String class to calculate the words.
+There are different choices that the programmer creates to make the project more creative and intriguing.
+You can also employ the Java APIs of formatting to format the content delivered by the client.
